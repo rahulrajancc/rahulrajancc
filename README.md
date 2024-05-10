@@ -10,10 +10,8 @@
         }
         img{
             height: 243px;
-    
-    margin-left: 45%;
-  
-    border: 15px;
+            margin-left: 45%;
+  border: 15px;
     border-style: dashed;
     border-color: purple;
         }
@@ -23,7 +21,7 @@
         }
         
 
-    </style>
+ </style>
 </head>
 <body>
     <img src="propg.png" alt="">
