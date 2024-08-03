@@ -21,7 +21,7 @@
         } </style>
 </head>
 <body>
-    <img src="propg.png" alt="">
+<!--     <img src="propg.png" alt=""> -->
     <h1 class="ctnhd">RahulRajan</h1>
     <h3 class="ctnhd">🌱 I’m currently learning **B.Tech Computer Science and Engineering,</h3>
     <h3 class="ctnhd">💬 Ask me about **React js and native, python,java,c/c++,web development</h3>
