@@ -1,5 +1,14 @@
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
   <circle cx="50" cy="50" r="10" fill="green">
     <animate attributeName="cx" values="50;150;50" dur="5s" repeatCount="indefinite" />
+  </circle>
+    <circle cx="50" cy="20" r="30" fill="red">
+    <animate attributeName="cx" values="50;150;50" dur="10s" repeatCount="indefinite" />
+  </circle>
+      <circle cx="00" cy="10" r="20" fill="blue">
+    <animate attributeName="cy" values="50;150;50" dur="15s" repeatCount="indefinite" />
+  </circle>
+      <circle cx="50" cy="00" r="5" fill="purple">
+    <animate attributeName="cy" values="50;150;-50" dur="5s" repeatCount="indefinite" />
   </circle>
 </svg>
