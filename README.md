@@ -22,7 +22,7 @@
 </head>
 <body>
 <!--     <img src="propg.png" alt=""> -->
-    <h1 style=" color:blueviolet">RahulRajan</h1>
+    <h1 color:blueviolet >RahulRajan</h1>
     <h3 >🌱 I’m currently learning **B.Tech Computer Science and Engineering,</h3>
     <h3 >💬 Ask me about **React js and native, python,java,c/c++,web development</h3>
 </body>
