@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  
     <style>
         body{
             background-color: black;
@@ -11,17 +11,14 @@
         img{
             height: 243px;
             margin-left: 45%;
-  border: 15px;
-    border-style: dashed;
-    border-color: purple;
+            border: 15px;
+            border-style: dashed;
+            border-color: purple;
         }
         .ctnhd{
             color: blueviolet;
             text-align: center;
-        }
-        
-
- </style>
+        } </style>
 </head>
 <body>
     <img src="propg.png" alt="">
