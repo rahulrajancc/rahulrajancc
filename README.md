@@ -1,4 +1,4 @@
-<img align="center" height="150" src="./img/propg.png"  />
+
 <span align="center"><h1>Hi 👋! My name is Rahul Rajan and I'm a CSE student, from India</h1></span>
 
 ###
@@ -35,7 +35,8 @@
 <div align="left">
     
   <a href="https://www.linkedin.com/in/rahulrajancc/"><img src="/img/LinkedIn.svg" height="35" alt="Linkedin logo"  /></a>
-    <a href="https://leetcode.com/u/rahulr123/"><img src="/img/LeetCode_Logo_2.png" height="35" alt="Leetcode logo"  /></a>
+  <a href="rahulrajancc.github.io/portfolio-/"> My portfolio</a>
+ <a href="https://leetcode.com/u/rahulr123/"><img src="/img/LeetCode_Logo_2.png" height="35" alt="Leetcode logo"  /></a>
     <a href="https://www.instagram.com/rahulrajanccc/"><img src="/img/instagram.webp" height="35" alt="instagram logo"  /></a>
     <a href="https://www.youtube.com/@EoTechBoy"><img src="/img/youtube.jpg" height="35" alt="youtube logo"  /></a>
     <a href="rahulrajancc@gmail.com"><img src="/img/gmail.jpeg" height="35" alt="gmail logo"  /></a>
