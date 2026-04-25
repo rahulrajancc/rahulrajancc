@@ -2,7 +2,9 @@
 <h3 align="center">🚀 CSE Student | Developer | Tech Enthusiast from India</h3>
 
 ---
-
+<div align="center">
+  <img src="./snake.svg" alt="snake animation"/>
+</div>
 ## 👨‍💻 About Me
 - 🎓 Computer Science Engineering Student  
 - 💡 Passionate about building real-world projects  
@@ -74,11 +76,9 @@
 
 ---
 
-## 🐍 Contribution Graph
 
-<div align="center">
-  <img src="./snake.svg" alt="snake animation"/>
-</div>
+
+
 
 ---
 
