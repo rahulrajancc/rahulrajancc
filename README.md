@@ -40,8 +40,8 @@
   <img src="/img/LinkedIn.svg" height="40"/>
 </a>
 
-<a href="https://rahulrajancc.github.io/portfolio-">
-  🌍 Portfolio
+<a href="https://rahulrajancc.github.io/portfolio-website/">
+     <img src="/img/prot.png" height="40"/>
 </a>
 
 <a href="https://leetcode.com/u/rahulr123/">
