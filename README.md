@@ -3,7 +3,7 @@
 
 ---
 <div align="center">
-  <img src="./snake.svg" alt="snake animation"/>
+  <img src="./pro.svg" alt="animation"/>
 </div>
 ## 👨‍💻 About Me
 - 🎓 Computer Science Engineering Student  
